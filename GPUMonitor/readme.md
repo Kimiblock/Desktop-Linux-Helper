@@ -4,7 +4,7 @@
 
 ![Screenshot_20220910_204102](https://github.com/Kimiblock/Desktop-Linux-Helper/raw/master/GPUMonitor/Screenshot_20220910_204102.png)
 
-![Screenshot_20220910_204102](https://github.com/Kimiblock/Desktop-Linux-Helper/raw/master/GPUMonitor/D3cold.png)
+![Screenshot_20220910_204102](https://github.com/Kimiblock/Desktop-Linux-Helper/raw/master/GPUMonitor/D3Cold.png)
 
 本脚本能在笔记本独立显卡启动 (从 `D3cold` 状态切换其他状态)时发送桌面通知, 支持 `Ampere` 及之后的 N卡, A卡理论上支持.
 
