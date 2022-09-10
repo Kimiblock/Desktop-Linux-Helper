@@ -1,0 +1,1 @@
+mv GameGuide/lib/libfreetype.so.6{,.bak}
