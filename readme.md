@@ -10,4 +10,4 @@
 
 # 依赖
 
-大多数脚本基于 `KDE Plasma, Archlinux` 桌面环境和基本的 `coreutils`, 若有额外的依赖会在具体的 readme中申明
+大多数脚本基于 `KDE Plasma, Archlinux` 桌面环境和基本的 `coreutils`, 若有额外的依赖会在具体的 readme       中申明
