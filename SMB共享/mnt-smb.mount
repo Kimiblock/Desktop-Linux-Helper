@@ -1,0 +1,14 @@
+[Unit]
+Description=Mount Share at boot
+
+[Mount]
+What=远程位置
+Where=/mnt/smb
+Options=_netdev,username=用户名,password=密码,iocharset=utf8,rw,file_mode=0777,dir_mode=0777
+Type=cifs
+TimeoutSec=10
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=graphical.target

@@ -1,6 +1,6 @@
 #!/bin/bash
 if [ ! ${cardNumber} ]; then
-    export ${cardNumber}=1
+    export cardNumber=1
 fi
 while true; do
     sleep 4s
